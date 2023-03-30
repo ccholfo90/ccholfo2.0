@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    background-color: lightblue;
+    margin: 2px;
+    padding: 10px 5px;
+    font-family: 'Oswald', sans-serif;
+}
+body {
+
+    border: solid black 2px;
+    background-color: blue;
+    }
+body img{
+    width: 50%;
+}
+
+body fieldset{
+    border: solid blue 2px;
+    padding: 5px 5px;
+    width: fit-content;
+}
+body legend{
+    border: solid black 2px;
+    max-width: fit-content;
+    padding: 4px;
+}
